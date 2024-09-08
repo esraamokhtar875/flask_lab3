@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7706cb8-40d8-44ed-ab32-db55477bf27d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/posts/Api/parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/posts/Api/seriallizers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/posts/Api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/posts/forms/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/posts/forms/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/user/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/user/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/writers/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/writers/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/writers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/writers/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/login_forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/register_forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/writers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/writers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/flasky.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/flasky.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/alembic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/versions/3277de22cee8_create_post_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/versions/dfb77005c225_create_post_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/posts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/posts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/posts/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/posts/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/posts/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/posts/show.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lT0qFjSKRqy04e5nemANzYGfTd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.flasky.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/esraa/PycharmProjects/Flask-day3/app/templates/posts/forms&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/templates/posts/forms" />
+      <recent name="$PROJECT_DIR$/app/templates/forms" />
+      <recent name="$PROJECT_DIR$/app/templates/writers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/templates/users" />
+      <recent name="$PROJECT_DIR$/app/templates/posts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="flasky" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask-day2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/flasky.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flasky" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7706cb8-40d8-44ed-ab32-db55477bf27d" name="Changes" comment="" />
+      <created>1725188948129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725188948129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
